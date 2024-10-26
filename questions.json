@@ -1,0 +1,122 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Sarah starts at 9 and jumps 3 steps backward. On which number will she land?",
+      "options": [
+          "6",
+          "7",
+          "8",
+          "9"
+      ],
+      "correct": 0,
+      "secondImg":"./images/1.png"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "This time, Tom starts at 8 and jumps 4 steps backward. On which number will he land?",
+      "options": [
+          "5",
+          "6",
+          "4",
+          "7"
+      ],
+      "correct": 2,
+      "secondImg":"./images/2.png"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "After visiting the second site, Tom and Sarah jumped together starting at 7 and jumped 5 steps backward together. On which number will they land?",
+      "options": [
+          "3",
+          "4",
+          "5",
+          "2"
+      ],
+      "correct": 3,
+      "secondImg":"./images/3.png"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "To reach a monument Tom starts at 23 and jumps 3 steps backward. On which number will he land?",
+      "options": [
+          "21",
+          "20",
+          "22",
+          "19"
+      ],
+      "correct": 1,
+      "secondImg":"./images/4.png"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "To reach the next important Sarah reads in the brochure. Sarah starts at 27 and jumps 4 steps backward. On which number will she land?",
+      "options": [
+          "24",
+          "23",
+          "25",
+          "26"
+      ],
+      "correct": 1,
+      "secondImg":"./images/5.png"
+  },
+  {
+      "questionNo": "Q6",
+      "question": "After a break, Sarah and Tom decide to revisit a museum. They start at 28 and jump 6 steps backward. On which number will they land?",
+      "options": [
+          "20",
+          "23",
+          "21",
+          "22"
+      ],
+      "correct": 3,
+      "secondImg":"./images/6.png"
+  },
+  {
+      "questionNo": "Q7",
+      "question": "They want to visit a famous statue. They start at 30 on the number line and jump 6 steps left. On which number will they land?",
+      "options": [
+          "27",
+          "26",
+          "24",
+          "25"
+      ],
+      "correct": 2,
+      "secondImg":"./images/7.png"
+  },
+  {
+      "questionNo": "Q8",
+      "question": "Tom spots a historical house. He starts at 37 and jumps 5 steps backward. On which number will he reach?",
+      "options": [
+          "31",
+          "34",
+          "32",
+          "36"
+      ],
+      "correct": 2,
+      "secondImg":"./images/8.png"
+  },
+  {
+      "questionNo": "Q9",
+      "question": "Sarah wants to visit a special site. She starts at 35 and jumps 5 steps backward. On which number will she reach?",
+      "options": [
+          "31",
+          "32",
+          "30",
+          "33"
+      ],
+      "correct": 2,
+      "secondImg":"./images/9.png"
+  },
+  {
+      "questionNo": "Q10",
+      "question": "The brochure says that to reach the final landmark Sarah and Tom decide to take the final jump together. They start at 52 and take 9 steps backward. On which number will they land?",
+      "options": [
+          "43",
+          "40",
+          "44",
+          "41"
+      ],
+      "correct": 0,
+      "secondImg":"./images/10.png"
+  }
+]
